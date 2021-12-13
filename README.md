@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balachandran-Muthuraj developing applications in Microsoft.Net & Android Developer(Java & Flutter)
 - 👀 I’m interested in learing Flutter,Dart,Go,Python
-- 🌱 I’m currently Flutter and Python ...
+- 🌱 I’m currently intrested on projects in Flutter.
 - 📫 Connect me through rmbalachandar@gmail.com
 
 <!---
