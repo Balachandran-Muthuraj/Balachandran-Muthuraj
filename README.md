@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balachandran-Muthuraj developing applications in .Netcore Web, API, Integration,OPenCV,python.
+- 👋 Hi, I’m @Balachandran-Muthuraj developing applications in .Netcore Web, API, Integration,OpenCV,python.
 - 🌱 I’m currently intrested on projects in .Netcore,OPenCV,python.
 - 📫 Connect me through rmbalachandar@gmail.com
 
